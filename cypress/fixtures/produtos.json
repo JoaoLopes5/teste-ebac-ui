@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Augusta Pullover Jacket",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": 3
+    },
+        {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "XS",
+        "cor": "Green",
+        "quantidade": 2
+    },
+        {
+        "nomeProduto": "Erica Evercool Sports Bra",
+        "tamanho": "M",
+        "cor": "Orange",
+        "quantidade": 4
+    }
+]
